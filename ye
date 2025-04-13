@@ -1,1 +1,2 @@
-print('hello world');
+const firstname = 'diane';
+console.log(firstname);
